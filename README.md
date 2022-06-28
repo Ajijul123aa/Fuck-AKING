@@ -24,6 +24,6 @@ pkg update
 
 💁 git clone https://github.com/Ajijul123aa/Fuck-AKING
 
-💁 Fuck-AKING
+💁 cd Fuck-AKING
 
 💁 python Fuck-AKING.py
