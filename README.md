@@ -1,6 +1,6 @@
 💔🔥 FUCK_AKING_PAID_COMMAND 🥵🖕
 
-💁 pkg update
+pkg update
 
 💁 pkg upgrade 
 
@@ -22,8 +22,8 @@
 
 💁 rm -rf Fuck_AKING
 
-💁 git clone https://github.com/MrK4US4R/Fuck_AKING
+💁 git clone https://github.com/Ajijul123aa/Fuck-AKING
 
-💁 Fuck_AKING
+💁 Fuck-AKING
 
-💁 python Fuck_AKING.py
+💁 python Fuck-AKING.py
