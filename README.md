@@ -20,7 +20,7 @@ pkg update
 
 💁 pip install bs4
 
-💁 rm -rf Fuck_AKING
+💁 rm -rf Fuck-AKING
 
 💁 git clone https://github.com/Ajijul123aa/Fuck-AKING
 
