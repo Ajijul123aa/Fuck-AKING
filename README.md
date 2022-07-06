@@ -22,7 +22,7 @@ pkg update
 
 💁 rm -rf Fuck-AKING
 
-💁 git clone https://github.com/Ajijul123aa/Fuck-AKING
+💁 git clone https://github.com/MRJIBON/Fuck-AKING
 
 💁 cd Fuck-AKING
 
